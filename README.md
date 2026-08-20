@@ -1,20 +1,18 @@
----
-name: sayall-remote-config
-description: "Configure SayAll + Xiaomi BT Remote for Hermes/Codex voice input workflow."
-version: 1.0.0
-platforms: [macos]
-metadata:
-  hermes:
-    tags: [macos, sayall, remote, voice-input, bluetooth, automation]
----
+# 🎤 语音遥控器工作流
 
-# SayAll 遥控器配置（Hermes + Codex 语音输入）
+> 小米蓝牙遥控器 + SayAll + Hermes/Codex，语音输入零鼠标
 
 用小米蓝牙遥控器 2 Pro + SayAll v1.9.4+ 实现：
 - 一键切换 Hermes / Codex 并自动聚焦输入框
 - 语音键按住说话，松开转录
 - ok 键发送，长按 ok 新建对话
 - 返回键最小化窗口，TV 键切换输入法
+
+---
+
+如果觉得有用，**喜欢就点个 ⭐ Star 吧！**
+
+---
 
 ## 前置条件
 
